@@ -15,10 +15,10 @@ repository               : "lschmors/lschmors.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.jpg"
+  name             : "Dr. Lisa Schmors"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Postdoctoral researcher"
   location         : "Tübingen, Germany"
   employer         : "University of Tübingen"
   uri              : # URL
