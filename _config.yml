@@ -1,8 +1,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Lisa "
-title_separator          : "-"
+title                    : "Lisa"
+title_separator          : " "
 name                     : &name "Schmors"
 description              : &description "Postdoc at Hertie Institute for AI in Brain Health"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://lschmors.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
@@ -30,7 +30,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=I5bME5kAAAAJ&hl=en&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "0000-0003-0644-4617"
+  orcid            : "https://orcid.org/0000-0003-0644-4617"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
@@ -49,7 +49,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "https://bsky.app/profile/lisaschmors.bsky.social"
+  bluesky          : "lisaschmors.bsky.social"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
