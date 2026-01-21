@@ -20,6 +20,3 @@ The lateral habenula (LHb) integrates aversive information to regulate motivated
 All code to generate results and figures is available at [GitHub repository](https://github.com/berenslab/cell_types_lateral_habenula)
 
 Data can be downloaded from [Zenodo](https://doi.org/10.5281/zenodo.16876960)
-
-## Cite
-Zouridis, I. S., Schmors, L., Lecca, S., Congiu, M., Mameli, M., Berens, P., Monteiro, F., Preston-Ferrer, P., & Burgalossi, A. (2024). "Aversion Encoding and Behavioral State Modulation of Physiologically Defined Cell Types in the Lateral Habenula." *European Journal of Neuroscience*.

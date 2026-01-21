@@ -1,7 +1,7 @@
 ---
 title: "TRACE: Time-series Representation through Averaging and Contrastive Embeddings"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2025-neurips-trace
 excerpt: 'A novel framework for visualizing neural time-series data using contrastive learning'
 date: 2025-12-06
@@ -15,6 +15,3 @@ Modern neural recording techniques such as two-photon imaging or Neuropixel prob
 
 ## Download
 [Download paper here](https://openreview.net/pdf/4676a4db97cecf0a8637df37ac0d9da81195e796.pdf)
-
-## Cite
-Schmors, L., et al. (2025). "TRACE: Contrastive learning for multi-trial time-series data in neuroscience." In *NThe Thirty-ninth Annual Conference on Neural Information Processing Systems*, 2025.
