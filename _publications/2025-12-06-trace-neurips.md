@@ -3,7 +3,7 @@ title: "TRACE: Time-series Representation through Averaging and Contrastive Embe
 collection: publications
 permalink: /publication/2025-neurips-trace
 excerpt: 'A novel framework for visualizing neural time-series data using contrastive learning'
-date: 2025
+date: 2025-12-06
 venue: 'The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)'
 paperurl: 'https://arxiv.org/abs/2506.04906'
 citation: 'Schmors, L., et al. (2025). "TRACE: Time-series Representation through Averaging and Contrastive Embeddings." <i>NeurIPS 2025</i>.'
