@@ -13,7 +13,7 @@ I am Dr. Lisa Schmors currently a postdoc at the [Hertie Institute for AI in Bra
 I obtained my Ph.D. at the intersection of Computer Science and Neuroscience from the [International Max Planck Research School for Intelligent Systems](https://imprs.is.mpg.de/). My research focuses on using mathematical models and statistical tools to explore how the brain represents and processes information. My primary focus revolves around analyzing brain data to gain a comprehensive understanding of neuronal functioning at both the single-cell and circuit levels. This spans essential aspects of brain function such as feedforward and feedback processing, as well as examining how information is represented in different cell types.
 
 ## Recent News
-- **March 2026**: accepted [poster at COSYNE](https://www.cosyne.org/poster-session-1) receiving the full travel grant based on abstract ranking
+- **March 2026**: [poster at COSYNE](https://www.cosyne.org/poster-session-1) receiving the full travel grant based on abstract ranking
 - **December 2025**: NeurIPS paper [TRACE: Contrastive learning for multi-trial time-series data in neuroscience](https://arxiv.org/abs/2506.04906)
 - **November 2025**: New paper published [Aversion Encoding and Behavioral State Modulation of Physiologically Defined Cell Types in the Lateral Habenula](https://onlinelibrary.wiley.com/doi/full/10.1111/ejn.70302)
 - **August 2025**: Invited talk at NeuroAI workshop at the Deep Learning Indaba in Kigali, Rwanda
