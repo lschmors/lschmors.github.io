@@ -10,7 +10,7 @@ redirect_from:
 I am Dr. Lisa Schmors currently a postdoc at the [Hertie Institute for AI in Brain Health](https://hertie.ai/) in Tübingen, Germany.
 
 ## Research Interests
-I obtained my Ph.D. at the intersection of Computer Science and Neuroscience from the [International Max Planck Research School for Intelligent Systems](https://imprs.is.mpg.de/). My research focuses on using mathematical models and statistical tools to explore how the brain represents and processes information. My primary focus revolves around analyzing brain data to gain a comprehensive understanding of neuronal functioning at both the single-cell and circuit levels. This spans essential aspects of brain function such as feedforward and feedback processing, as well as examining how information is represented in different cell types.
+I completed my Ph.D. at the intersection of Computer Science and Neuroscience from the [International Max Planck Research School for Intelligent Systems](https://imprs.is.mpg.de/). My research focuses on using mathematical models and statistical tools to explore how the brain represents and processes information. My primary focus revolves around analyzing brain data to gain a comprehensive understanding of neuronal functioning at both the single-cell and circuit levels. This spans essential aspects of brain function such as feedforward and feedback processing, as well as examining how information is represented in different cell types.
 
 ## Recent News
 - **March 2026**: [poster at COSYNE](https://www.cosyne.org/poster-session-1) receiving the full travel grant based on abstract ranking
