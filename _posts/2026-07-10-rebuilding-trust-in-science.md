@@ -8,6 +8,7 @@ tags:
 ---
 
 For one week every summer, the density of brilliant minds in the south of Germany increases significantly: the Lindau Nobel Laureate Meeting brings together around 70 Nobel Laureates and more than 600 young scientists from all over the world.
+
 I got invited as a representative of the machine learning ecosystem in Tübingen and the Cluster of Excellence "Machine Learning: New Perspectives for Science." Together with my colleagues from Cyber Valley, we showcased the science happening in and around the region as a science pitch. And as if taking the stage in front of Nobel Laureates didn't add enough pressure, this was the challenge:
 
 - You have 3 minutes.
