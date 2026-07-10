@@ -1,6 +1,6 @@
 ---
 title: 'How to rebuild trust in science?'
-date: 2026-01-12
+date: 2026-07-10
 permalink: /posts/2026/07/rebuilding-trust-in-science/
 tags:
   - science communication
