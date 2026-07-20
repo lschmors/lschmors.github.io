@@ -13,7 +13,8 @@ I am Dr. Lisa Schmors currently a postdoc at the [Hertie Institute for AI in Bra
 I completed my Ph.D. at the intersection of Computer Science and Neuroscience from the [International Max Planck Research School for Intelligent Systems](https://imprs.is.mpg.de/). My research focuses on using mathematical models and statistical tools to explore how the brain represents and processes information. My primary focus revolves around analyzing brain data to gain a comprehensive understanding of neuronal functioning at both the single-cell and circuit levels. This spans essential aspects of brain function such as feedforward and feedback processing, as well as examining how information is represented in different cell types.
 
 ## Recent News
-- **May 2026**: Receiving [Wellcome Trusts Early-Career Award](https://wellcome.org/research-funding/schemes/wellcome-early-career-awards)
+- **August 2026**: Organizing the NeuroAI workshop at the [Deep Learning Indaba 2026](https://deeplearningindaba.com/)
+- **June 2026**: Receiving [Wellcome Trust Early-Career Award](https://wellcome.org/research-funding/schemes/wellcome-early-career-awards) to join University of Cape Town
 - **April 2026**: New [preprint](https://www.biorxiv.org/content/10.64898/2026.04.15.718783v1) about the functional organization of retinal input to the mouse superior colliculus
 - **March 2026**: [poster at COSYNE](https://www.cosyne.org/poster-session-1) receiving the full travel grant based on abstract ranking
 
