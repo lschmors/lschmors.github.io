@@ -17,8 +17,8 @@ I did my PhD at the intersection of computer science and neuroscience at the
 My research focuses on developing machine learning methods that find structure in large neural datasets, from 
 single-neuron to whole-brain recordings. 
 I also study brain maturation through biophysical models of human cortical neurons across development. 
-Specifically, I want to understand how changes in single-neuron and synaptic properties are linked to the brain's 
-cognitive capacity. 
+Specifically, I want to understand how changes in single-neuron and synaptic properties are linked to changes in 
+cognitive capacity and our ability to learn. 
 This work is funded by a Wellcome Trust Early Career Award.
 
 ## Recent News
