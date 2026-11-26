@@ -12,7 +12,7 @@ I am Dr. Lisa Schmors currently a [Wellcome Trust Fellow](https://wellcome.org/r
 ## Research Interests
 I'm a computational neuroscientist interested in how neurons and brains process information. 
 I did my PhD at the intersection of computer science and neuroscience at the
-[International Max Planck Research School for Intelligent Systems](https://imprs.is.mpg.de/), followed by a Postdoc at the [Hertie Institute for AI in Brain Health](https://www.hertie.ai/the-institute/about-us).
+[International Max Planck Research School for Intelligent Systems](https://imprs.is.mpg.de/), followed by a Postdoc at the [Hertie Institute for AI in Brain Health](https://www.hertie.ai/the-institute/about-us) in Tübingen, Germany.
 
 My research focuses on developing machine learning methods that find structure in large neural datasets, from single-neuron to whole-brain recordings. 
 I also study brain maturation through biophysical models of human cortical neurons across development. 
