@@ -4,7 +4,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Lisa Schmors"
 title_separator          : " "
 name                     : &name "Dr. Lisa Schmors"
-description              : &description "Postdoc at Hertie Institute for AI in Brain Health"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : #&description "Postdoc at Hertie Institute for AI in Brain Health"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://lisaschmors.com #https://lschmors.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lschmors/lschmors.github.io"
@@ -17,9 +17,9 @@ author:
   avatar           : "profile.png"
   name             : "Lisa Schmors"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral researcher"
-  location         : "Tübingen, Germany"
-  employer         : "University of Tübingen"
+  bio              : "Junior Research Fellow"
+  location         : "Cape Town, South Africa"
+  employer         : #"University of Tübingen"
   uri              : # URL
   email            : "lisa.schmors@gmail.com"
 
