@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Dr. Lisa Schmors currently a postdoc at the [Hertie Institute for AI in Brain Health](https://hertie.ai/) in Tübingen, Germany.
+I am Dr. Lisa Schmors currently a [Wellcome Trust Fellow](https://wellcome.org/research-funding/schemes/wellcome-early-career-awards) in Cape Town, South Africa.
 
 ## Research Interests
 I'm a computational neuroscientist interested in how neurons and brains process information. 
@@ -22,9 +22,9 @@ cognitive capacity and our ability to learn.
 This work is funded by a Wellcome Trust Early Career Award.
 
 ## Recent News
+- **November 2026** New paper accepted in [Current Biology](https://www.cell.com/current-biology/home). Preprint can be found on [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.04.15.718783v1)
 - **August 2026**: Organizing the NeuroAI workshop at the [Deep Learning Indaba 2026](https://deeplearningindaba.com/)
 - **June 2026**: Receiving [Wellcome Trust Early-Career Award](https://wellcome.org/research-funding/schemes/wellcome-early-career-awards) to join University of Cape Town
-- **April 2026**: New [preprint](https://www.biorxiv.org/content/10.64898/2026.04.15.718783v1) about the functional organization of retinal input to the mouse superior colliculus
 
 ## Connect with me
 I'm excited to connect with like-minded scientists and students. Please feel free to reach out to me about any 
